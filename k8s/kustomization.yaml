@@ -9,4 +9,6 @@ resources:
   - flask-service.yaml
   - flask-deployment.yaml
   - servicemonitor.yaml
+  - argocd-ingress.yaml
+  - grafana-ingress.yaml
 
